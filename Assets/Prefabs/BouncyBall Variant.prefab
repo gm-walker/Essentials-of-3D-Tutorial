@@ -7,9 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1278382636572901260, guid: 24dc3e6def0ff1e4ba030cc13fa6869b, type: 3}
+      propertyPath: m_Drag
+      value: 0.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278382636572901260, guid: 24dc3e6def0ff1e4ba030cc13fa6869b, type: 3}
+      propertyPath: m_Mass
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278382636572901260, guid: 24dc3e6def0ff1e4ba030cc13fa6869b, type: 3}
+      propertyPath: m_UseGravity
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1278382636572901263, guid: 24dc3e6def0ff1e4ba030cc13fa6869b, type: 3}
       propertyPath: m_Name
-      value: BouncyBall Variant (1)
+      value: BouncyBall Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1278382636572901264, guid: 24dc3e6def0ff1e4ba030cc13fa6869b, type: 3}
       propertyPath: m_RootOrder
